@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
-[![wakatime](https://wakatime.com/badge/user/dc782c19-c8af-4761-9f7a-b755422389c5.svg)](https://wakatime.com/@dc782c19-c8af-4761-9f7a-b755422389c5)
+<!-- [![wakatime](https://wakatime.com/badge/user/dc782c19-c8af-4761-9f7a-b755422389c5.svg)](https://wakatime.com/@dc782c19-c8af-4761-9f7a-b755422389c5) -->
+## About Me 😇
 <h3 align="center">An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
 - 🔭 I’m currently working on [Admin Dashboard](https://ng-admin-dashboard.herokuapp.com/home)
@@ -10,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://omolara5861.github.io/)
+- 👨‍💻 Some of my projects are available on [My Portfolio](https://omolara5861.github.io/)
 
 - 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Redux, Mongo DB, Express, Angular, Nest, and Node JS**
 
