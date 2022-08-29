@@ -5,7 +5,7 @@
 
 <!-- <img align="right" src="assets/images/scaler-create-impact.gif" alt="a gir coding" width="500" height="320"> -->
 <h2> About Me 😇                                                             </h2>
-<h3 align="center">An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
+<h3>An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
 - 🔭 I’m currently working on [Admin Dashboard](https://ng-admin-dashboard.herokuapp.com/home)
 
