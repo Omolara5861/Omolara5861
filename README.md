@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
 <!-- [![wakatime](https://wakatime.com/badge/user/dc782c19-c8af-4761-9f7a-b755422389c5.svg)](https://wakatime.com/@dc782c19-c8af-4761-9f7a-b755422389c5) -->
+<img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding">
+<!-- <img align="right" src="assets/images/JXA0.gif" alt="a gir coding"> -->
+
+<!-- <img align="right" src="assets/images/scaler-create-impact.gif" alt="a gir coding" width="500" height="320"> -->
 <h2> About Me 😇                                                             </h2>
 <h3 align="center">An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
@@ -7,7 +11,7 @@
 
 - 🌱 I’m currently learning **Everything I need to become a better Programmer**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
