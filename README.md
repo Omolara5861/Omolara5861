@@ -25,13 +25,25 @@
 </div>
 
 <br/>
-<h3 style="font-style:italic">💻 Languages and Tools: 🛠️</h3>
+<h3 style="font-style:italic">💻 Some Languages and Tools I use: 🛠️</h3>
 
 
 
-[![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Express Badge](https://img.shields.io/badge/-Express-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-007acc?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=007acc)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-61DBFB?style=for-the-badge&labelColor=black&logo=redux&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Npm Badge](https://img.shields.io/badge/-Npm-3C873A?style=for-the-badge&labelColor=black&logo=npm&logoColor=3C873A)](#) 
+ [![Express Badge](https://img.shields.io/badge/-Express-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-007acc?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=007acc)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) 
 [![Ionic Badge](https://img.shields.io/badge/-Ionic-61DBFB?style=for-the-badge&labelColor=black&logo=ionic&logoColor=61DBFB)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-F0DB4F?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=F0DB4F)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-007acc?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=007acc)](#) 
+[![Sass Badge](https://img.shields.io/badge/-Sass-007acc?style=for-the-badge&labelColor=black&logo=sass&logoColor=007acc)](#) 
+[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-007acc?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=007acc)](#) 
+[![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=html5&logoColor=007acc)](#) 
+[![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=docker&logoColor=007acc)](#) 
+[![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
+[![Git Badge](https://img.shields.io/badge/-Git-3C873A?style=for-the-badge&labelColor=black&logo=Git&logoColor=3C873A)](#) 
+[![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=Github&logoColor=3C873A)](#) 
+[![Vscode Badge](https://img.shields.io/badge/-Vscode-3C873A?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=3C873A)](#) 
+[![Neovim Badge](https://img.shields.io/badge/-Neovim-61DBFB?style=for-the-badge&labelColor=black&logo=neovim&logoColor=61DBFB)](#)
+[![Windows Badge](https://img.shields.io/badge/-Windows-61DBFB?style=for-the-badge&labelColor=black&logo=Windows&logoColor=61DBFB)](#)
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
