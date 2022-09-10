@@ -15,20 +15,23 @@
 - 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Redux, Mongo DB, Express, Angular, Nest, and Node JS**
 - 📫 How to reach me **debbiegterra@gmail.com**
 - ⚡ Fun fact **I think I talk a lot**
-  
 <div style="text-align: center;">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" style="margin-left:-20px; margin-bottom: -5px;"> </h2>
-<a href="https://twitter.com/@kesty_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omolara-ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/debbiegtera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://www.discord.com/users/763342737520197673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
+<a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
+<a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
+
 </div>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+<br/>
+<h3 style="font-style:italic">💻 Languages and Tools: 🛠️</h3>
+
+
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Express Badge](https://img.shields.io/badge/-Express-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-007acc?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=007acc)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) 
-[![Ionic Badge](https://img.shields.io/badge/-Ionic-61DBFB?style=for-the-badge&labelColor=black&logo=ionic&logoColor=61DBFB)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-F0DB4F?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=F0DB4F)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-007acc?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=007acc)](#)  -->
+[![Ionic Badge](https://img.shields.io/badge/-Ionic-61DBFB?style=for-the-badge&labelColor=black&logo=ionic&logoColor=61DBFB)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-F0DB4F?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=F0DB4F)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-007acc?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=007acc)](#) 
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
