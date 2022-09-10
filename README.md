@@ -15,12 +15,11 @@
 - 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Redux, Mongo DB, Express, Angular, Nest, and Node JS**
 - 📫 How to reach me **debbiegterra@gmail.com**
 - ⚡ Fun fact **I think I talk a lot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style="text-align: center;">
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://twitter.com/@kesty_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
