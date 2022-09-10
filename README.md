@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
 <!-- [![wakatime](https://wakatime.com/badge/user/dc782c19-c8af-4761-9f7a-b755422389c5.svg)](https://wakatime.com/@dc782c19-c8af-4761-9f7a-b755422389c5) -->
-<img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding" style="margin-left: 20px; width:300px">
+<img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding" style="margin-left: 20px; width:300px;">
 <!-- <img align="right" src="assets/images/JXA0.gif" alt="a gir coding"> -->
 
 <!-- <img align="right" src="assets/images/scaler-create-impact.gif" alt="a gir coding" width="500" height="320"> -->
@@ -16,7 +16,7 @@
 - 📫 How to reach me **debbiegterra@gmail.com**
 - ⚡ Fun fact **I think I talk a lot**
   
-<div style="text-align: center;">
+<div align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" style="margin-left:-20px; margin-bottom: -5px;"> </h2>
 <a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
@@ -26,19 +26,19 @@
 </div>
 
 <br/>
-<h3 style="font-style:italic">💻 Some Languages and Tools I use: 🛠️</h3>
+<h3 style="font-style:italic;">💻 Some Languages and Tools I use: 🛠️</h3>
 
 
 
-[![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Redux Badge](https://img.shields.io/badge/-Redux-61DBFB?style=for-the-badge&labelColor=black&logo=redux&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Npm Badge](https://img.shields.io/badge/-Npm-3C873A?style=for-the-badge&labelColor=black&logo=npm&logoColor=3C873A)](#) 
- [![Express Badge](https://img.shields.io/badge/-Express-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-007acc?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=007acc)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) 
-[![Ionic Badge](https://img.shields.io/badge/-Ionic-61DBFB?style=for-the-badge&labelColor=black&logo=ionic&logoColor=61DBFB)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-F0DB4F?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=F0DB4F)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-007acc?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=007acc)](#) 
-[![Sass Badge](https://img.shields.io/badge/-Sass-007acc?style=for-the-badge&labelColor=black&logo=sass&logoColor=007acc)](#) 
-[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-007acc?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=007acc)](#) 
-[![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=html5&logoColor=007acc)](#) 
-[![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=docker&logoColor=007acc)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&labelColor=black&logo=angular&logoColor=a6120d)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Npm Badge](https://img.shields.io/badge/-Npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
+ [![Express Badge](https://img.shields.io/badge/-Express-68a063?style=for-the-badge&labelColor=black&logo=express&logoColor=68a063)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-e2254c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e2254c)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3fa037)](#) 
+[![Ionic Badge](https://img.shields.io/badge/-Ionic-498aff?style=for-the-badge&labelColor=black&logo=ionic&logoColor=498aff)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-00749c?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=00749c)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-3bbcfb?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=3bbcfb)](#) 
+[![Sass Badge](https://img.shields.io/badge/-Sass-cc6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6799)](#) 
+[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-602C50?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50)](#) 
+[![Html Badge](https://img.shields.io/badge/-Html-E34C26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34C26)](#) 
+[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#) 
 [![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-3C873A?style=for-the-badge&labelColor=black&logo=Git&logoColor=3C873A)](#) 
 [![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=Github&logoColor=3C873A)](#) 
