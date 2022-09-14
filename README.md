@@ -40,11 +40,11 @@
 [![Html Badge](https://img.shields.io/badge/-Html-E34C26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34C26)](#) 
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#) 
 [![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
-[![Git Badge](https://img.shields.io/badge/-Git-3C873A?style=for-the-badge&labelColor=black&logo=Git&logoColor=3C873A)](#) 
-[![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=Github&logoColor=3C873A)](#) 
-[![Vscode Badge](https://img.shields.io/badge/-Vscode-3C873A?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=3C873A)](#) 
-[![Neovim Badge](https://img.shields.io/badge/-Neovim-61DBFB?style=for-the-badge&labelColor=black&logo=neovim&logoColor=61DBFB)](#)
-[![Windows Badge](https://img.shields.io/badge/-Windows-61DBFB?style=for-the-badge&labelColor=black&logo=Windows&logoColor=61DBFB)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
+[![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
+[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#) 
+[![Neovim Badge](https://img.shields.io/badge/-Neovim-69A33E?style=for-the-badge&labelColor=black&logo=neovim&logoColor=69A33E)](#)
+[![Windows Badge](https://img.shields.io/badge/-Windows-00a1f1?style=for-the-badge&labelColor=black&logo=Windows&logoColor=00a1f1)](#)
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
