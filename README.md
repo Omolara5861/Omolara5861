@@ -49,7 +49,7 @@
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Stats</h2>
+<h2> Coding Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
  
 
 ## 🏆 Github Stats
