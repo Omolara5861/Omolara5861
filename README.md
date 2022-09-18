@@ -58,3 +58,15 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=omolara5861&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omolara5861&theme=dark" width="48%" >
 <br>
+
+## Metrics 📊 
+
+<details>
+<summary>
+ View Metrics
+</summary>
+
+[![Metrics](https://metrics.lecoq.io/Omolara5861?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.shuffle=false&config.timezone=Africa%2FCalcutta)](https://www.github.com/Omolara5861)
+
+</details>
+
