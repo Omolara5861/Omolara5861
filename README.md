@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
-<!-- [![wakatime](https://wakatime.com/badge/user/dc782c19-c8af-4761-9f7a-b755422389c5.svg)](https://wakatime.com/@dc782c19-c8af-4761-9f7a-b755422389c5) -->
+
 <img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding" style="margin-left: 20px; width:300px;">
 <!-- <img align="right" src="assets/images/JXA0.gif" alt="a gir coding"> -->
 
@@ -51,6 +51,10 @@
 
 <h2> Coding Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
  
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 🏆 Github Stats
 
