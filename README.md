@@ -37,7 +37,7 @@
 [![BootStrap Badge](https://img.shields.io/badge/-BootStrap-602C50?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50)](#) 
 [![Html Badge](https://img.shields.io/badge/-Html-E34C26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34C26)](#) 
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#) 
-[![Cypress Badge](https://img.shields.io/badge/-Cypress-00a1f1?style=for-the-badge&labelColor=black&logo=cypress&logoColor=00a1f1)](#)
+[![Cypress Badge](https://img.shields.io/badge/-Cypress-00BC6F?style=for-the-badge&labelColor=black&logo=cypress&logoColor=00BC6F)](#)
 [![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
 [![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
