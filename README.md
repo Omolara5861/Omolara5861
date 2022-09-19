@@ -1,13 +1,11 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
 
 <img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding" style="margin-left: 20px; width:300px;">
-<!-- <img align="right" src="assets/images/JXA0.gif" alt="a gir coding"> -->
 
-<!-- <img align="right" src="assets/images/scaler-create-impact.gif" alt="a gir coding" width="500" height="320"> -->
 <h2> About Me 😇                                                             </h2>
 <h3>An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
-- 🔭 I’m currently working on [Admin Dashboard](https://ng-admin-dashboard.herokuapp.com/home)
+- 🔭 I’m currently working on [Comicverse](https://github.com/Worldwide-Talented-Fellows/comicverse)
 - 🌱 I’m currently learning **Everything I need to become a better Programmer**
 - 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
