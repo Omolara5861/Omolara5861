@@ -15,9 +15,7 @@
 - ⚡ Fun fact **I think I talk a lot**
   
 <div align="center">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" > 
-
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me ![my image](/img/myImage.jpg#center)  <img src='' width="90px" style="margin-left:-20px; margin-bottom: -5px;"> </h2>
 <a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
@@ -49,7 +47,7 @@
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-<h2> Coding Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2> Coding Stats <img src="" width="30"></h2>
  
  
 <!--START_SECTION:waka-->
