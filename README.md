@@ -52,9 +52,9 @@
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-<h2> Coding Stats 
+<h2> 
 
-![Coding](assets/images/giphy%20(1).webp#coding) 
+Coding Stats ![Coding](assets/images/giphy%20(1).webp#coding) 
 
 </h2>
  
@@ -110,5 +110,4 @@ img[src*='#handshake'] {
 }
 img[src*='#coding'] {
     width: 30px;
-}
 </style>
