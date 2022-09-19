@@ -15,7 +15,12 @@
 - ⚡ Fun fact **I think I talk a lot**
   
 <div align="center">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me ![my image](/img/myImage.jpg#center)  <img src='' width="90px" style="margin-left:-20px; margin-bottom: -5px;"> </h2>
+<h2>
+
+![star](assets/images/giphy.webp#star)
+&nbsp;*** Connect with me 
+![Handshake](assets/images/handshake.gif#handshake)  
+
 <a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
@@ -47,7 +52,11 @@
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-<h2> Coding Stats <img src="" width="30"></h2>
+<h2> Coding Stats 
+
+![Coding](assets/images/giphy%20(1).webp#coding) 
+
+</h2>
  
  
 <!--START_SECTION:waka-->
@@ -90,3 +99,16 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 ### Visitor's Count :eyes:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=omolara5861)
 
+<style>
+img[src*='#star'] {
+    width:30px;
+}
+img[src*='#handshake'] {
+    width: 90px;
+    margin-left:-20px; 
+    margin-bottom: -5px;
+}
+img[src*='#coding'] {
+    width: 30px;
+}
+</style>
