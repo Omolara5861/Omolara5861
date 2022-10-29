@@ -16,10 +16,10 @@
   
 <div align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">&nbsp; &nbsp;  &nbsp; *** Connect with me *** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"> </h2>
+<a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
 <a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
 
 </div>
 
@@ -42,8 +42,6 @@
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
 [![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
 [![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#) 
-[![Neovim Badge](https://img.shields.io/badge/-Neovim-69A33E?style=for-the-badge&labelColor=black&logo=neovim&logoColor=69A33E)](#)
-[![Windows Badge](https://img.shields.io/badge/-Windows-00a1f1?style=for-the-badge&labelColor=black&logo=Windows&logoColor=00a1f1)](#)
 
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
