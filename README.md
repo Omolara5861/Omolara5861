@@ -17,8 +17,8 @@
 <div align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">&nbsp; &nbsp;  &nbsp; *** Connect with me *** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"> </h2>
 <a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
+<a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
 
 </div>
