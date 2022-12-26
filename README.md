@@ -12,7 +12,7 @@
 - 👨‍💻 Some of my projects are available on [My Portfolio](https://omolara5861.github.io/)
 - 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Redux, Mongo DB, Express, Angular, Nest, and Node JS**
 - 📫 How to reach me **debbiegterra@gmail.com**
-- ⚡ Fun fact **I think I talk a lot**
+- ⚡ Fun fact **If I could have any superpower, it would be to speak any language, so I could connect with anyone in the world.**
   
 <div align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">&nbsp; &nbsp;  &nbsp; *** Connect with me *** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"> </h2>
