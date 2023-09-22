@@ -26,7 +26,7 @@
 
 ### 💻 *Some Languages and Tools I use:* 🛠️ </br>
 
-
+<!-- 
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&labelColor=black&logo=angular&logoColor=a6120d)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
@@ -41,7 +41,7 @@
 [![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
 [![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
-[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#) 
+[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#)  -->
 
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
@@ -86,6 +86,5 @@ Assembly     4 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 
-### Visitor's Count :eyes:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=omolara5861)
-
+### Visitor's Count 👀
+![visitors](https://komarev.com/ghpvc/?username=omolara5861&color=brightgreen)
