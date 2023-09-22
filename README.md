@@ -5,15 +5,15 @@
 <h2> About Me 😇                                                             </h2>
 <h3>An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
-- 🔭 I’m currently working on [Comicverse](https://github.com/Worldwide-Talented-Fellows/comicverse)
+- 🔭 I’m currently working at [The Digital Dog Company](https://github.com/TheDigitalDogCompany)
 - 🌱 I’m currently learning **Everything I need to become a better Programmer**
 - 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 - 👨‍💻 Some of my projects are available on [My Portfolio](https://omolara5861.github.io/)
-- 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Redux, Mongo DB, Express, Angular, Nest, and Node JS**
+- 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Mongo DB, Express, Angular, Nest, and Node JS**
 - 📫 How to reach me **debbiegterra@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language, so I could connect with anyone in the world.**
-  
+
 <div align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">&nbsp; &nbsp;  &nbsp; *** Connect with me *** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"> </h2>
 <a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 ### 💻 *Some Languages and Tools I use:* 🛠️ </br>
 
-<!-- 
+
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&labelColor=black&logo=angular&logoColor=a6120d)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
@@ -41,7 +41,7 @@
 [![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
 [![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
-[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#)  -->
+[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#) 
 
 <!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
