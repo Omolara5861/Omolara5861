@@ -62,12 +62,11 @@ Assembly     4 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
 ## 🏆 Github Stats
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=omolara5861&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omolara5861&theme=dark" width="48%" >
+<img  src="https://streak-stats.demolab.com/?user=omolara5861&count_private=true&theme=dark&border_radius=10" width="48%" >
 <br>
 
 ## Metrics 📊 
