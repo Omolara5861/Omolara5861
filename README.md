@@ -5,7 +5,7 @@
 <h2> About Me 😇                                                             </h2>
 <h3>An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
 
-- 🔭 I’m currently working at [The Digital Dog Company](https://github.com/TheDigitalDogCompany)
+- 🔭 I’m currently working at [The Digital Dog Company](https://digitaldog.company)
 - 🌱 I’m currently learning **Everything I need to become a better Programmer**
 - 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
