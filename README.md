@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Everything I need to become a better Programmer**
 - 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
-- 👨‍💻 Some of my projects are available on [My Portfolio](https://omolara5861.github.io/)
+- 👨‍💻 Some of my projects are available on [My Portfolio](https://codesbylara.com/)
 - 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Mongo DB, Express, Angular, Nest, and Node JS**
 - 📫 How to reach me **debbiegterra@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language, so I could connect with anyone in the world.**
