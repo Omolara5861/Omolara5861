@@ -1,55 +1,89 @@
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lara || Debbie</h1>
+<h1 align="center">Hi 👋, I'm Omolara Adebowale</h1>
 
-<img align="right" src="assets/images/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" alt="a gir coding" style="margin-left: 20px; width:300px;">
+<h3 align="center">
+  Full-Stack Engineer | React · Next.js · TypeScript · Node.js
+</h3>
 
-<h2> About Me 😇                                                             </h2>
-<h3>An enthusiastic self-taught Frontend Developer. I love to create beautiful and performant products with delightful user experiences.</h3>
+<p align="center">
+  I build reliable, user-focused web products and production systems.
+</p>
 
-- 🔭 I’m currently working at [Afrieta Community Internet](https://community.afrieta.com)
-- 🌱 I’m currently learning **Everything I need to become a better Programmer**
-- 👯 I’m looking to collaborate on **OpenSource Projects && Any outstanding project idea**
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
-- 👨‍💻 Some of my projects are available on [My Portfolio](https://codesbylara.com/)
-- 💬 Ask me about **HTML, Tailwind CSS, TypeScript, Ionic, React, Mongo DB, Express, Angular, Nest, and Node JS**
-- 📫 How to reach me **debbiegterra@gmail.com**
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language, so I could connect with anyone in the world.**
+<p align="center">
+  <a href="https://codesbylara.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/omolara-ad/">LinkedIn</a> •
+  <a href="mailto:debbiegterra@gmail.com">Email</a>
+</p>
 
-<div align="center">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">&nbsp; &nbsp;  &nbsp; *** Connect with me *** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"> </h2>
-<a href="https://www.discord.com/users/763342737520197673" target="blank" title="discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omolara-ad" target="blank" title="likendIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omolara-ad" height="30" width="40" /></a>
-<a href="https://twitter.com/@kesty_o" target="blank" title="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kesty_o" height="30" width="40" /></a>
-<a href="https://www.instagram.com/debbiegtera/" target="blank" title="instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omolara-ad" height="30" width="40" /></a>
+---
 
-</div>
+## About Me
 
+I'm a frontend-focused Full-Stack Engineer with 4+ years of experience building and maintaining production web applications for distributed teams across the UK, Europe, and Africa.
 
-### 💻 *Some Languages and Tools I use:* 🛠️ </br>
+I work primarily with **React, Next.js, TypeScript, and Node.js**, with experience across frontend interfaces, backend APIs, databases, third-party integrations, payments, and operational workflows.
 
+I enjoy owning problems end to end — understanding the product requirement, building the user experience, integrating APIs and backend logic, handling edge cases, and supporting features in production.
 
+Recently, my work has included **logistics platforms, payment and reconciliation systems, ISP integrations, internal operational tools, and learning platforms**.
 
-[![Angular Badge](https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&labelColor=black&logo=angular&logoColor=a6120d)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Npm Badge](https://img.shields.io/badge/-Npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
- [![Express Badge](https://img.shields.io/badge/-Express-68a063?style=for-the-badge&labelColor=black&logo=express&logoColor=68a063)](#) [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-e2254c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e2254c)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3fa037)](#) 
-[![Ionic Badge](https://img.shields.io/badge/-Ionic-498aff?style=for-the-badge&labelColor=black&logo=ionic&logoColor=498aff)](#) [![WordPress Badge](https://img.shields.io/badge/-WordPress-00749c?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=00749c)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-3bbcfb?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=3bbcfb)](#) 
-[![Sass Badge](https://img.shields.io/badge/-Sass-cc6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6799)](#) 
-[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-602C50?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50)](#) 
-[![Html Badge](https://img.shields.io/badge/-Html-E34C26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34C26)](#) 
-[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#) 
-[![Cypress Badge](https://img.shields.io/badge/-Cypress-00BC6F?style=for-the-badge&labelColor=black&logo=cypress&logoColor=00BC6F)](#)
-[![Json Badge](https://img.shields.io/badge/-Json-3C873A?style=for-the-badge&labelColor=black&logo=json&logoColor=3C873A)](#) 
-[![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#) 
-[![Github Badge](https://img.shields.io/badge/-Github-211F1F?style=for-the-badge&labelColor=black&logo=Github&logoColor=211F1F)](#) 
-[![Vscode Badge](https://img.shields.io/badge/-Vscode-0484dc?style=for-the-badge&labelColor=black&logo=Visualstudiocode&logoColor=0484dc)](#) 
+---
 
-<!-- [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) 
-[![Prisma Badge](https://img.shields.io/badge/-Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=3C873A)](#)  -->
-<!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+## What I Work With
 
-<h2> Coding Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
- 
- 
+**Frontend**
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Angular` · `Tailwind CSS`
+
+**Backend & APIs**
+
+`Node.js` · `Express.js` · `REST APIs` · `Webhooks` · `Third-Party Integrations`
+
+**Data**
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `Firestore` · `Prisma`
+
+**Testing & Tools**
+
+`Cypress` · `Docker` · `Git` · `Google Cloud Platform`
+
+---
+
+## Selected Work
+
+### Cash Collection Platform
+
+A payment and reconciliation platform for an ISP that connects physical cash collections with customer accounts in an external ISP system.
+
+I worked across the frontend and backend, including customer validation, payment processing, receipts, reconciliation, duplicate-payment safeguards, failure handling, and automatic service restoration.
+
+**Stack:** Next.js · TypeScript · Node.js · Express.js · Firestore · REST APIs
+
+> Private production project — source code is not publicly available.
+
+### GoSendAm — Logistics Platform
+
+A logistics platform supporting operational workflows across senders, receivers, riders, and operations teams.
+
+My work has included payment flows, receiver price confirmation, OTP verification, delivery-state management, redelivery workflows, and operational dashboards.
+
+**Stack:** React · TypeScript · Node.js · REST APIs · Socket.IO
+
+> Private production project — source code is not publicly available.
+
+### Learning Management System
+
+A learning platform supporting instructors, administrators, and students across course creation, curriculum management, lesson authoring, and learning workflows.
+
+My work includes complex product interfaces such as course and lesson management, rich-text authoring, curriculum workflows, previews, and payment-related functionality.
+
+**Stack:** React · TypeScript · REST APIs
+
+> Private production project — source code is not publicly available.
+
+---
+
+## GitHub Activity
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -57,34 +91,3 @@ TypeScript   21 hrs 50 mins        ███████████████
 HTML         2 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
 CSS          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 JavaScript   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
-
-<!--END_SECTION:waka-->
-
-## 🏆 Github Stats
-
-
-<img  src="https://github-readme-stats.vercel.app/api?username=omolara5861&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://streak-stats.demolab.com/?user=omolara5861&count_private=true&theme=dark&border_radius=10" width="48%" >
-<br>
-
-## Metrics 📊 
-
-<details>
-<summary>
- View Metrics
-</summary>
-
-[![Metrics](https://metrics.lecoq.io/Omolara5861?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Omolara5861)
-
-</details>
-
-<p align="centre">
- 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omolara5861&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-</p>
-
-
-### Visitor's Count :eyes:
-![visitors](https://komarev.com/ghpvc/?username=omolara5861&color=brightgreen)
